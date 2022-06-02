@@ -1,5 +1,8 @@
-O projeto Flappy Bird foi criado com o objetivo de criar a lógica complexa do jogo com o Javascript.
+## Flappy Bird
 _______________________________________________________________
+
+## Objetivo
+O projeto Flappy Bird foi criado com o objetivo de criar a lógica complexa do jogo com o Javascript.
 
 ## Stack
 - HTML
